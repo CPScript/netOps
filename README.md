@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-netOps Framework is a omprehensive toolkit designed for network operations, security analysis, and network topology manipulation. It provides a modular architecture for network professionals to perform sophisticated network auditing, traffic manipulation, and security assessment.
+netOps Framework is a comprehensive toolkit designed for network operations, security analysis, and network topology manipulation. It provides a modular architecture for network professionals to perform sophisticated network auditing, traffic manipulation, and security assessment.
 
 ## ⚠️ Security Disclaimer
 
